@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtualenvs
+.venv/
+env/
+*.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Conda environment (we don't commit envs)
+*.conda
+
+# Log files
+*.log
